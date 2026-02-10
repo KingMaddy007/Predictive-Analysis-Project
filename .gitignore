@@ -31,8 +31,8 @@ ENV/
 *.ipynb
 
 # PyTorch
-*.pth
-*.pt
+# *.pth
+# *.pt
 # checkpoints/
 # runs/
 # logs/
